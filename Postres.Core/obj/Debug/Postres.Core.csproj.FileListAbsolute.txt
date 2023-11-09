@@ -1,0 +1,12 @@
+C:\Users\LENOVO T480\Music\UNA-eqp\Postres\Postres.Core\bin\Debug\Postres.Core.dll
+C:\Users\LENOVO T480\Music\UNA-eqp\Postres\Postres.Core\bin\Debug\Postres.Core.pdb
+C:\Users\LENOVO T480\Music\UNA-eqp\Postres\Postres.Core\obj\Debug\Postres.Core.csproj.AssemblyReference.cache
+C:\Users\LENOVO T480\Music\UNA-eqp\Postres\Postres.Core\obj\Debug\Postres.Core.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO T480\Music\UNA-eqp\Postres\Postres.Core\obj\Debug\Postres.Core.dll
+C:\Users\LENOVO T480\Music\UNA-eqp\Postres\Postres.Core\obj\Debug\Postres.Core.pdb
+C:\Users\reyne\Pictures\Postres\Postres.Core\bin\Debug\Postres.Core.dll
+C:\Users\reyne\Pictures\Postres\Postres.Core\bin\Debug\Postres.Core.pdb
+C:\Users\reyne\Pictures\Postres\Postres.Core\obj\Debug\Postres.Core.csproj.AssemblyReference.cache
+C:\Users\reyne\Pictures\Postres\Postres.Core\obj\Debug\Postres.Core.csproj.CoreCompileInputs.cache
+C:\Users\reyne\Pictures\Postres\Postres.Core\obj\Debug\Postres.Core.dll
+C:\Users\reyne\Pictures\Postres\Postres.Core\obj\Debug\Postres.Core.pdb

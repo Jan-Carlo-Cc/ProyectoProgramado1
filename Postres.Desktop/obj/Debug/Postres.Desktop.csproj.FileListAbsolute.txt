@@ -1,0 +1,35 @@
+C:\Users\LENOVO T480\Music\UNA-eqp\Postres\Postres.Desktop\bin\Debug\Postres.Desktop.exe.config
+C:\Users\LENOVO T480\Music\UNA-eqp\Postres\Postres.Desktop\bin\Debug\Postres.Desktop.exe
+C:\Users\LENOVO T480\Music\UNA-eqp\Postres\Postres.Desktop\bin\Debug\Postres.Desktop.pdb
+C:\Users\LENOVO T480\Music\UNA-eqp\Postres\Postres.Desktop\obj\Debug\Postres.Desktop.csproj.AssemblyReference.cache
+C:\Users\LENOVO T480\Music\UNA-eqp\Postres\Postres.Desktop\obj\Debug\Postres.Desktop.csproj.SuggestedBindingRedirects.cache
+C:\Users\LENOVO T480\Music\UNA-eqp\Postres\Postres.Desktop\obj\Debug\Postres.Desktop.Properties.Resources.resources
+C:\Users\LENOVO T480\Music\UNA-eqp\Postres\Postres.Desktop\obj\Debug\Postres.Desktop.csproj.GenerateResource.cache
+C:\Users\LENOVO T480\Music\UNA-eqp\Postres\Postres.Desktop\obj\Debug\Postres.Desktop.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO T480\Music\UNA-eqp\Postres\Postres.Desktop\obj\Debug\Postres.Desktop.exe
+C:\Users\LENOVO T480\Music\UNA-eqp\Postres\Postres.Desktop\obj\Debug\Postres.Desktop.pdb
+C:\Users\LENOVO T480\Music\UNA-eqp\Postres\Postres.Desktop\obj\Debug\Postres.Desktop.Contenedor.resources
+C:\Users\LENOVO T480\Music\UNA-eqp\Postres\Postres.Desktop\obj\Debug\Postres.Desktop.Forms.AgregarIngrediente.resources
+C:\Users\LENOVO T480\Music\UNA-eqp\Postres\Postres.Desktop\obj\Debug\Postres.Desktop.Forms.CrearPostre.resources
+C:\Users\LENOVO T480\Music\UNA-eqp\Postres\Postres.Desktop\obj\Debug\Postres.Desktop.Forms.DetallesPostre.resources
+C:\Users\LENOVO T480\Music\UNA-eqp\Postres\Postres.Desktop\obj\Debug\Postres.Desktop.Forms.PostresLista.resources
+C:\Users\LENOVO T480\Music\UNA-eqp\Postres\Postres.Desktop\bin\Debug\Postres.Core.dll
+C:\Users\LENOVO T480\Music\UNA-eqp\Postres\Postres.Desktop\bin\Debug\Postres.Core.pdb
+C:\Users\LENOVO T480\Music\UNA-eqp\Postres\Postres.Desktop\obj\Debug\Postres.Desktop.csproj.CopyComplete
+C:\Users\reyne\Pictures\Postres\Postres.Desktop\bin\Debug\Postres.Desktop.exe.config
+C:\Users\reyne\Pictures\Postres\Postres.Desktop\bin\Debug\Postres.Desktop.exe
+C:\Users\reyne\Pictures\Postres\Postres.Desktop\bin\Debug\Postres.Desktop.pdb
+C:\Users\reyne\Pictures\Postres\Postres.Desktop\bin\Debug\Postres.Core.dll
+C:\Users\reyne\Pictures\Postres\Postres.Desktop\bin\Debug\Postres.Core.pdb
+C:\Users\reyne\Pictures\Postres\Postres.Desktop\obj\Debug\Postres.Desktop.csproj.AssemblyReference.cache
+C:\Users\reyne\Pictures\Postres\Postres.Desktop\obj\Debug\Postres.Desktop.Contenedor.resources
+C:\Users\reyne\Pictures\Postres\Postres.Desktop\obj\Debug\Postres.Desktop.Forms.DetallesPostre.resources
+C:\Users\reyne\Pictures\Postres\Postres.Desktop\obj\Debug\Postres.Desktop.Properties.Resources.resources
+C:\Users\reyne\Pictures\Postres\Postres.Desktop\obj\Debug\Postres.Desktop.csproj.GenerateResource.cache
+C:\Users\reyne\Pictures\Postres\Postres.Desktop\obj\Debug\Postres.Desktop.csproj.CoreCompileInputs.cache
+C:\Users\reyne\Pictures\Postres\Postres.Desktop\obj\Debug\Postres.Desktop.csproj.CopyComplete
+C:\Users\reyne\Pictures\Postres\Postres.Desktop\obj\Debug\Postres.Desktop.exe
+C:\Users\reyne\Pictures\Postres\Postres.Desktop\obj\Debug\Postres.Desktop.pdb
+C:\Users\reyne\Pictures\Postres\Postres.Desktop\obj\Debug\Postres.Desktop.Forms.AgregarMenu.resources
+C:\Users\reyne\Pictures\Postres\Postres.Desktop\obj\Debug\Postres.Desktop.Forms.NombreCliente.resources
+C:\Users\reyne\Pictures\Postres\Postres.Desktop\obj\Debug\Postres.Desktop.Forms.ListaClientes.resources
